@@ -1,0 +1,293 @@
+201-New Jersey: Bayonne, Bergenfield, Cliffside Park
+202-Washington, DC: Washington
+203-Connecticut: Bridgeport, Danbury, East Haven
+205-Alabama: Alabaster, Bessemer, Birmingham
+206-Washington: Bainbridge Island, Burien, Des Moines
+207-Maine: Auburn, Augusta, Bangor
+208-Idaho: Boise City, Caldwell, Coeur D'alene
+209-California: Atwater, Ceres, Lodi
+210-Texas: San Antonio
+212-New York: Manhattan, New York City
+213-California: Los Angeles
+214-Texas: Allen, Arlington, Carrollton
+215-Pennsylvania: Levittown, Philadelphia
+216-Ohio: Brook Park, Cleveland, Cleveland Heights
+217-Illinois: Champaign, Charleston, Danville
+218-Minnesota: Andover, Duluth, Moorhead
+219-Indiana: East Chicago, Gary, Hammond
+224-Illinois: Algonquin, Arlington Heights, Buffalo Grove
+225-Louisiana: Baton Rouge
+228-Mississippi: Biloxi, Gulfport, Pascagoula
+229-Georgia: Albany, Valdosta
+231-Michigan: Muskegon, Norton Shores, Shelby
+234-Ohio: Akron, Alliance, Austintown
+239-Florida: Bonita Springs, Cape Coral, Fort Myers
+240-Maryland: Aspen Hill, Bethesda, Bowie
+248-Michigan: Bloomfield, Farmington Hills, Ferndale
+251-Alabama: Mobile, Prichard
+252-North Carolina: Greenville, Havelock, Kinston
+253-Washington: Auburn, East Hill-meridian, Federal Way
+254-Texas: Copperas Cove, Fort Hood, Killeen
+256-Alabama: Anniston, Decatur, Florence
+260-Indiana: Fort Wayne
+262-Wisconsin: Brookfield, Caledonia, Kenosha
+267-Pennsylvania: Levittown, Philadelphia
+269-Michigan: Battle Creek, Kalamazoo, Portage
+270-Kentucky: Bowling Green, Elizabethtown, Henderson
+276-Virginia: Richmond
+281-Texas: Alvin, Atascocita, Baytown
+301-Maryland: Aspen Hill, Bethesda, Bowie
+302-Delaware: Dover, Newark, Wilmington
+303-Colorado: Arvada, Aurora, Boulder
+304-West Virginia: Charleston, Huntington, Morgantown
+305-Florida: Aventura, Carol City, Coral Gables
+307-Wyoming: Casper, Cheyenne, Gillette
+308-Nebraska: Grand Island, Kearney, North Platte
+309-Illinois: Bloomington, East Moline, East Peoria
+310-California: Beverly Hills, Carson, Culver City
+312-Illinois: Chicago
+313-Michigan: Allen Park, Dearborn, Dearborn Heights
+314-Missouri: Affton, Ferguson, Florissant
+315-New York: Auburn, Rome, Syracuse
+316-Kansas: Wichita
+317-Indiana: Carmel, Fishers, Greenwood
+318-Louisiana: Alexandria, Bossier City, Monroe
+319-Iowa: Burlington, Cedar Falls, Cedar Rapids
+320-Minnesota: St. Cloud
+321-Florida: Altamonte Springs, Apopka, Casselberry
+323-California: Bell, Bell Gardens, Cudahy
+325-Texas: Abilene, San Angelo
+330-Ohio: Akron, Alliance, Austintown
+331-Illinois: Addison, Aurora, Bartlett
+334-Alabama: Auburn, Dothan, Enterprise
+336-North Carolina: Asheboro, Burlington, Greensboro
+337-Louisiana: Lafayette, Lake Charles, New Iberia
+339-Massachusetts: Arlington, Braintree, Burlington
+340-Virgin Islands: Charlotte Amalie
+347-New York: Bronx, Brooklyn, New York City
+351-Massachusetts: Beverly, Chelmsford, Danvers
+352-Florida: Gainesville, Oakland Park, Ocala
+360-Washington: Bellingham, Bremerton, Lacey
+361-Texas: Corpus Christi, Kingsville, Victoria
+385-Utah: American Fork, Bountiful, Clearfield
+386-Florida: Daytona Beach, De Land, Deltona
+401-Rhode Island: Bristol, Cranston, East Providence
+402-Nebraska: Bellevue, Columbus, Fremont
+404-Georgia: Atlanta, Candler-mcafee, College Park
+405-Oklahoma: Bethany, Del City, Edmond
+406-Montana: Billings, Bozeman, Butte-silver Bow
+407-Florida: Altamonte Springs, Apopka, Casselberry
+408-California: Campbell, Gilroy, Los Gatos
+409-Texas: Beaumont, Galveston, Port Arthur
+410-Maryland: Annapolis, Arbutus, Arnold
+412-Pennsylvania: Bethel Park, Mccandless, Mckeesport
+413-Massachusetts: Agawam, Chicopee, Holyoke
+414-Wisconsin: Franklin, Greenfield, Milwaukee
+415-California: Novato, San Anselmo, San Francisco
+417-Missouri: Joplin, Springfield
+419-Ohio: Ashland, Bowling Green, Findlay
+423-Tennessee: Bristol, Chattanooga, Cleveland
+424-California: Beverly Hills, Carson, Culver City
+425-Washington: Bellevue, Bothell, Cascade-fairwood
+430-Texas
+432-Texas: Big Spring, Midland, Odessa
+434-Virginia: Charlottesville, Danville, Lynchburg
+435-Utah: Cedar City, Logan, St. George
+440-Ohio: Ashtabula, Eastlake, Elyria
+442-California: Apple Valley, Barstow, Brawley
+443-Maryland: Annapolis, Arbutus, Arnold
+458-Oregon: Albany, Bend, Corvallis
+469-Texas: Allen, Carrollton, Cedar Hill
+470-Georgia
+475-Connecticut: Bridgeport, Danbury, East Haven
+478-Georgia: Macon, Warner Robins
+479-Arkansas: Fayetteville, Fort Smith, Rogers
+480-Arizona: Apache Junction, Chandler, Fountain Hills
+484-Pennsylvania: Allentown, Bethlehem, Chester
+501-Arkansas: Benton, Conway, Hot Springs
+502-Kentucky: Frankfort, Louisville
+503-Oregon: Aloha, Beaverton, Gresham
+504-Louisiana: Chalmette, Harvey, Kenner
+505-New Mexico: Albuquerque, Farmington, Gallup
+507-Minnesota: Austin, Faribault, Mankato
+508-Massachusetts: Attleboro, Barnstable Town, Brockton
+509-Washington: Kennewick, Opportunity, Pasco
+510-California: Alameda, Berkeley, Castro Valley
+512-Texas: Austin, Cedar Park, Georgetown
+513-Ohio: Cincinnati, Fairfield, Hamilton
+515-Iowa: Ames, Ankeny, Des Moines
+516-New York: Baldwin, East Meadow, Elmont
+517-Michigan: Adrian, Clinton, East Lansing
+518-New York: Albany, Rotterdam, Saratoga Springs
+520-Arizona: Casa Adobes, Casa Grande, Catalina Foothills
+530-California: Chico, Davis, Paradise
+539-Oklahoma: Bartlesville, Broken Arrow, Muskogee
+540-Virginia: Blacksburg, Cave Spring, Harrisonburg
+541-Oregon: Albany, Bend, Corvallis
+551-New Jersey: Bayonne, Bergenfield, Cliffside Park
+559-California: Clovis, Fresno, Hanford
+561-Florida: Boca Del Mar, Boca Raton, Boynton Beach
+562-California: Bellflower, Cerritos, Downey
+563-Iowa: Bettendorf, Clinton, Davenport
+567-Ohio: Ashland, Bowling Green, Findlay
+570-Pennsylvania: Back Mountain, Hazleton, Scranton
+571-Virginia: Alexandria, Annandale, Arlington
+573-Missouri: Cape Girardeau, Columbia, Jefferson City
+574-Indiana: Elkhart, Goshen, Granger
+575-New Mexico: Alamogordo, Carlsbad, Clovis
+580-Oklahoma: Altus, Ardmore, Duncan
+585-New York: Brighton, Irondequoit, Rochester
+586-Michigan: Clinton, Eastpointe, Harrison
+601-Mississippi: Clinton, Hattiesburg, Jackson
+602-Arizona: Phoenix
+603-New Hampshire: Concord, Derry, Dover
+605-South Dakota: Aberdeen, Pierre, Rapid City
+606-Kentucky: Ashland
+607-New York: Binghamton, Elmira, Ithaca
+608-Wisconsin: Beloit, Fitchburg, Janesville
+609-New Jersey: Atlantic City, Ewing, Mercerville-hamilton Square
+610-Pennsylvania: Allentown, Bethlehem, Chester
+612-Minnesota: Crystal, Golden Valley, Minneapolis
+614-Ohio: Columbus, Dublin, Gahanna
+615-Tennessee: Brentwood, Franklin, Gallatin
+616-Michigan: Forest Hills, Grand Rapids, Holland
+617-Massachusetts: Belmont, Boston, Brookline
+618-Illinois: Alton, Belleville, Carbondale
+619-California: Chula Vista, Coronado, El Cajon
+620-Kansas: Dodge City, Emporia, Garden City
+623-Arizona: Avondale, Glendale, Peoria
+626-California: Alhambra, Altadena, Arcadia
+630-Illinois: Addison, Aurora, Bartlett
+631-New York: Bay Shore, Brentwood, Centereach
+636-Missouri: Ballwin, Chesterfield, O'fallon
+641-Iowa: Marshalltown, Mason City, Ottumwa
+646-New York: Manhattan, New York City
+650-California: Belmont, Burlingame, Daly City
+651-Minnesota: Apple Valley, Cottage Grove, Eagan
+657-California: Anaheim, Brea, Buena Park
+660-Missouri: Sedalia
+661-California: Bakersfield, Delano, Lancaster
+662-Mississippi: Clarksdale, Columbus, Greenville
+671-Guam: Hagatna
+678-Georgia: Alpharetta, Atlanta, Candler-mcafee
+681-West Virginia: Charleston, Huntington, Morgantown
+682-Texas: Arlington, Bedford, Benbrook
+684-American Samoa: Pago
+701-North Dakota: Bismarck, Fargo, Grand Forks
+702-Nevada: Henderson, Las Vegas, North Las Vegas
+703-Virginia: Alexandria, Annandale, Arlington
+704-North Carolina: Charlotte, Concord, Gastonia
+706-Georgia: Athens, Augusta, Columbus
+707-California: Benicia, Eureka, Fairfield
+708-Illinois: Bellwood, Berwyn, Blue Island
+712-Iowa: Council Bluffs, Sioux City
+713-Texas: Alvin, Atascocita, Baytown
+714-California: Anaheim, Brea, Buena Park
+715-Wisconsin: Eau Claire, Stevens Point, Superior
+716-New York: Buffalo, Cheektowaga, Jamestown
+717-Pennsylvania: Harrisburg, Lancaster, Lebanon
+718-New York: Bronx, Brooklyn, New York City
+719-Colorado: Colorado Springs, Pueblo, Security-widefield
+720-Colorado: Arvada, Aurora, Boulder
+724-Pennsylvania: Mccandless, Monroeville, New Castle
+727-Florida: Bayonet Point, Clearwater, Dunedin
+731-Tennessee: Jackson
+732-New Jersey: Brick, Carteret, East Brunswick
+734-Michigan: Ann Arbor, Canton, Garden City
+740-Ohio: Athens, Chillicothe, Delaware
+747-California: Agoura Hills, Burbank, Calabasas
+754-Florida: Coconut Creek, Cooper City, Coral Springs
+757-Virginia: Chesapeake, Hampton, Newport News
+760-California: Apple Valley, Barstow, Brawley
+762-Georgia
+763-Minnesota: Blaine, Brooklyn Center, Brooklyn Park
+765-Indiana: Anderson, Kokomo, Lafayette
+769-Mississippi: Clinton, Hattiesburg, Jackson
+770-Georgia: Alpharetta, Atlanta, College Park
+772-Florida: Fort Pierce, Palm City, Port St. Lucie
+773-Illinois: Chicago
+774-Massachusetts: Attleboro, Barnstable Town, Brockton
+775-Nevada: Carson City, Pahrump, Reno
+779-Illinois: Belvidere, Crystal Lake, De Kalb
+781-Massachusetts: Arlington, Braintree, Burlington
+785-Kansas: Hays, Lawrence, Manhattan
+786-Florida: Aventura, Carol City, Coral Gables
+787-Puerto Rico: San Juan
+801-Utah: American Fork, Bountiful, Clearfield
+802-Vermont: Burlington, Montpelier
+803-South Carolina: Aiken, Columbia, Rock Hill
+804-Virginia: Hopewell, Mechanicsville, Petersburg
+805-California: Atascadero, Camarillo, El Paso De Robles
+806-Texas: Amarillo, Lubbock, Plainview
+808-Hawaii: Hilo, Honolulu, Kahului
+810-Michigan: Burton, Flint, Port Huron
+812-Indiana: Bloomington, Clarksville, Columbus
+813-Florida: Brandon, Citrus Park, Egypt Lake
+814-Pennsylvania: Altoona, Erie, Johnstown
+815-Illinois: Belvidere, Crystal Lake, De Kalb
+816-Missouri: Belton, Blue Springs, Gladstone
+817-Texas: Arlington, Bedford, Benbrook
+818-California: Agoura Hills, Burbank, Calabasas
+828-North Carolina: Asheville, Hickory
+830-Texas: Del Rio, Eagle Pass, Kerrville
+831-California: Hollister, Marina, Monterey
+832-Texas: Alvin, Atascocita, Baytown
+843-South Carolina: Charleston, Florence, Goose Creek
+845-New York: Kingston, Middletown, New City
+847-Illinois: Algonquin, Arlington Heights, Buffalo Grove
+848-New Jersey: Brick, Carteret, East Brunswick
+850-Florida: Bellview, Brent, Ferry Pass
+856-New Jersey: Bridgeton, Camden, Cherry Hill
+857-Massachusetts: Belmont, Boston, Brookline
+858-California: Poway
+859-Kentucky: Covington, Florence, Lexington
+860-Connecticut: Bristol, Central Manchester, East Hartford
+862-New Jersey: Belleville, Bloomfield, Clifton
+863-Florida: Lakeland, Winter Haven
+864-South Carolina: Anderson, Greenville, Greenwood
+865-Tennessee: Knoxville, Maryville, Oak Ridge
+870-Arkansas: El Dorado, Jonesboro, Paragould
+872-Illinois: Chicago
+878-Pennsylvania: Bethel Park, Mccandless, Mckeesport
+901-Tennessee: Bartlett, Collierville, Germantown
+903-Texas: Corsicana, Denison, Greenville
+904-Florida: Jacksonville, Jacksonville Beach, Lakeside
+906-Michigan: Marquette
+907-Alaska: Anchorage, College, Fairbanks
+908-New Jersey: Cranford, Elizabeth, Hillside
+909-California: Chino, Chino Hills, Claremont
+910-North Carolina: Fayetteville, Fort Bragg, Jacksonville
+912-Georgia: Hinesville, Savannah, Statesboro
+913-Kansas: Kansas City, Leavenworth, Leawood
+914-New York: Harrison, Mount Vernon, New Rochelle
+915-Texas: El Paso, Socorro
+916-California: Arden-arcade, Carmichael, Citrus Heights
+917-New York: Bronx, Brooklyn, Manhattan
+918-Oklahoma: Bartlesville, Broken Arrow, Muskogee
+919-North Carolina: Apex, Cary, Chapel Hill
+920-Wisconsin: Appleton, De Pere, Fond Du Lac
+925-California: Antioch, Bay Point, Brentwood
+928-Arizona: Bullhead City, Flagstaff, Fortuna Foothills
+929-New York: Bronx, Brooklyn, New York City
+931-Tennessee: Clarksville, Columbia, Cookeville
+936-Texas: Conroe, Huntsville, Lufkin
+937-Ohio: Beavercreek, Centerville, Dayton
+938-Alabama: Anniston, Decatur, Florence
+939-Puerto Rico: San Juan
+940-Texas: Denton, Lewisville, Wichita Falls
+941-Florida: Bradenton, North Port, Port Charlotte
+947-Michigan: Bloomfield, Farmington Hills, Ferndale
+949-California: Aliso Viejo, Costa Mesa, Dana Point
+951-California: Banning, Corona, Hemet
+952-Minnesota: Bloomington, Burnsville, Chanhassen
+954-Florida: Coconut Creek, Cooper City, Coral Springs
+956-Texas: Brownsville, Edinburg, Harlingen
+970-Colorado: Fort Collins, Grand Junction, Greeley
+971-Oregon: Aloha, Beaverton, Gresham
+972-Texas: Allen, Carrollton, Cedar Hill
+973-New Jersey: Belleville, Bloomfield, Clifton
+978-Massachusetts: Beverly, Chelmsford, Danvers
+979-Texas: Bryan, College Station, Lake Jackson
+980-North Carolina: Charlotte, Concord, Gastonia
+985-Louisiana: Houma, Laplace, Slidell
+989-Michigan: Bay City, Harrison, Midland
